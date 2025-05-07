@@ -1,3 +1,5 @@
+### Blog: TypeScript and Its uses
+
 ## What is typescript?
 TypeScript is a programming language made by Microsoft.It is like JavaScript but with extra features.
 The biggest feature is that it allows you to use types.
