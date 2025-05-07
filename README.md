@@ -1,4 +1,4 @@
-### Blog: TypeScript and Its uses
+# Blog: TypeScript and Its uses
 
 ## What is typescript?
 TypeScript is a programming language made by Microsoft.It is like JavaScript but with extra features.
@@ -6,7 +6,7 @@ The biggest feature is that it allows you to use types.
 Types help you catch errors before running the code.
 TypeScript code is changed into JavaScript so it can run in the browser. It helps to find mistakes early while developing and makes code easier to understand doing of big projects. 
 
-# Difference between any, unknown and never
+## Difference between any, unknown and never
 
 1. ANY
 any means you can use the variable for anything.
@@ -36,7 +36,7 @@ function showError(msg: string): never {
   throw new Error(msg);
 }
 ```
-# What is an Enum?
+## What is an Enum?
 
 An enum is a way to give names to numbers or strings.
 It helps make your code easier to read.
